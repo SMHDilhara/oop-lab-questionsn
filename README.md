@@ -4,17 +4,9 @@
 
 This project is a Java Object-Oriented Programming (OOP) assignment that demonstrates core OOP concepts through a **Campus Staff Payment System**. It models university staff members such as lecturers and lab assistants, calculates their monthly payments, and shows common university policies.
 
- OOP Concepts Demonstrated
-
-Project Structure
 
 
-src/main/java/Lab04/
-├── Lab04Main.java          # Main program entry point
-├── StaffMember.java       # Abstract base class
-├── Lecturer.java         # Lecturer subclass
-├── LabAssistant.java     # Lab assistant subclass
-└── UniversityPolicy.java # Final utility/policy class
+
 
 
 Class Descriptions
